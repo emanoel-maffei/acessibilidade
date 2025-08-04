@@ -1,5 +1,6 @@
 .secaoDestaques {
-  background-color: #DCEDF5;
+  background-color: lightsalmon;
+  box-shadow: 0px 0px 10px lightsalmon;
   text-align: center;
 }
 

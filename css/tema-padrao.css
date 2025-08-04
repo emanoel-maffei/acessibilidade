@@ -50,6 +50,11 @@ li[aria-hidden='false'] { display:block ; }
   z-index: -1;
 }
 
+#planos {
+  background-color: lightsalmon;
+  box-shadow: 0px 0px 10px lightsalmon;
+}
+
 .container {
   padding: 3.5em 5%;
   margin: 0 auto;

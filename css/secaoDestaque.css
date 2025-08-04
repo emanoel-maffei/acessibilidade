@@ -1,5 +1,6 @@
 
 .secaoDestaque {
+  background-image: url(../img/bg-intro.png);
   text-align: center;
   background-size: cover;
   background-color: #00161c;
@@ -46,9 +47,9 @@
 
 @media (min-width: 830px) {
 
-  .secaoDestaque {
+  /* .secaoDestaque {
     background-image: url(../img/bg-intro.jpg);
-  }
+  } */
 
   .secaoDestaque-titulo {
     font-size: 5vw
