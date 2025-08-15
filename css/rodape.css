@@ -1,3 +1,4 @@
+
 .rodape {
   background-color: #333;
   text-align: center;
@@ -50,6 +51,14 @@
   text-decoration: underline;
 }
 
+video {
+  width: 50%;
+  
+  border-radius: 5px;
+
+  margin: 30px;
+}
+
 @media (min-width: 830px) {
 
   .rodape-logo {
@@ -64,4 +73,13 @@
     align-items: center;    
   }
 
+}
+
+@media (max-width: 830px) {
+  video {
+    transform: translateX(12.5px);
+    width: 100%;
+
+    margin-inline: auto;
+  }
 }

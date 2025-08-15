@@ -106,3 +106,7 @@ li[aria-hidden='false'] { display:block ; }
     width: 1000px;
   }
 }
+
+a {
+  color: tomato !important;
+}
